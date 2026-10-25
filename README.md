@@ -1,5 +1,6 @@
-<h1 align="center">Ciao, sono Luke 👋</h1>
-<h3 align="center">Sviluppatore Web | Studente di Informatica</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020c1b,50:0c2d4e,100:185FA5&fontColor=e8f4ff&fontSize=52&fontAlignY=55&text=Luke&desc=Builder&descAlignY=75&descSize=16&animation=fadeIn&stroke=378ADD&strokeWidth=1" width="100%"/>
+</div>
 
 <p align="center">
   <a href="https://www.telegram.org/Liberooh"><img src="https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>
