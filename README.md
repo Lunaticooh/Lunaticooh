@@ -11,7 +11,7 @@
 
 - 🔭 Sto lavorando su **AtlantisRP** come Builder.
 - 🌱 Sto imparando **La gestione dei database e php**
-- 💬 Chiedimi pure di **[html e css]**
+- 💬 Chiedimi pure di **html e css**
 - ⚡ Curiosità: **Sono appassionato di anime/manga**
 
 <p align="center">
