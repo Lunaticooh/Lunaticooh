@@ -7,8 +7,6 @@
   <a href="https://Lunaticooh.itt"><img src="https://img.shields.io/badge/Sito_web-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Sito web" /></a>
 </p>
 
----
-
 ## 🧑‍💻 Chi sono
 
 - 🔭 Sto lavorando su **AtlantisRP** come Builder.
