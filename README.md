@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://t.me/Liberooh"><img src="https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://Lunaticooh.itt"><img src="https://img.shields.io/badge/Sito_web-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Sito web" /></a>
+  <a href="https://Lunaticooh.it"><img src="https://img.shields.io/badge/Sito_web-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Sito web" /></a>
 </p>
 
 ## 🧑‍💻 Chi sono
